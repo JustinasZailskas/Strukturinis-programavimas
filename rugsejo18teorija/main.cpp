@@ -5,6 +5,7 @@ int main() {
     string fruit = "banana";
     int number;
     int num1;
+    bool test = true;
     if (fruit == "banana") {
         cout<<"you have a banana"<<endl;
     } else if (fruit == "apple") {
@@ -12,8 +13,8 @@ int main() {
     } else {
         cout<<"You have something else"<<endl;
     }
-/*cout<<"____________SWITCH dalis________"<<endl;
-    while (true) {
+    cout<<"____________SWITCH dalis________"<<endl;
+    while (test == true) {
         cout << "Enter number (1-2): ";
         cin >> number;
         switch (number) {
@@ -24,9 +25,10 @@ int main() {
                 cout <<"You have an apple" <<endl;
                 break;
             default:
+                test = false;
                 cout <<"You have something else"<<endl;
         }
-    }*/
+    }
     cout<<"----for ciklas----"<<endl;
     cout << "Enter a positive integer: "<<endl;
     cin >> num1;

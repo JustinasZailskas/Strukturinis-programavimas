@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\rugsejo18teorija.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\rugsejo18teorija.dir/objects.a @CMakeFiles\rugsejo18teorija.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\rugsejo18teorija.dir/objects.a -Wl,--no-whole-archive -o rugsejo18teorija.exe -Wl,--out-implib,librugsejo18teorija.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rugsejo18teorija.dir\linkLibs.rsp
