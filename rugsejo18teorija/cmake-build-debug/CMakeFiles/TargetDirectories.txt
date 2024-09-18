@@ -1,0 +1,3 @@
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/rugsejo18teorija/cmake-build-debug/CMakeFiles/rugsejo18teorija.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/rugsejo18teorija/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/rugsejo18teorija/cmake-build-debug/CMakeFiles/rebuild_cache.dir
