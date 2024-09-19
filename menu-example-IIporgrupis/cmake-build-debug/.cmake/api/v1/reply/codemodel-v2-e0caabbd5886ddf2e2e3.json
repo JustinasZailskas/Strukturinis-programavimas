@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "menu_example_IIporgrupis",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "menu_example_IIporgrupis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-menu_example_IIporgrupis-Debug-7da525f6340ad6ae7b9e.json",
+					"name" : "menu_example_IIporgrupis",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/j.zailskas/Documents/Strukturinis-programavimas/menu-example-IIporgrupis/cmake-build-debug",
+		"source" : "C:/Users/j.zailskas/Documents/Strukturinis-programavimas/menu-example-IIporgrupis"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
