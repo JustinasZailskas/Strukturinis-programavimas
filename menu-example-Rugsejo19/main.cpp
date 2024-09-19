@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
     int choise = 0;
+    int number1, number2, sum;
 
     while (choise != 4) {
         cout <<"Paprastas meniu pasirinkimas"<<endl;
@@ -16,6 +17,12 @@ int main() {
         switch (choise) {
             case 1:
                 cout <<"Jus pasirinkote pirma opcija"<<endl;
+                cout <<"Iveskite pirma skaiciu"<<endl;
+                cin >> number1;
+                cout <<"Iveskite antra skaiciu"<<endl;
+                cin >> number2;
+                sum = number1 + number2;
+                cout <<"Ivestu dvieju skaiciu suma "<<sum <<endl;
             break;
             case 2:
                 cout <<"Jus pasirinkote antra opcija"<<endl;
