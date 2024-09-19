@@ -3,6 +3,8 @@ using namespace std;
 
 int main() {
     int choice = 0;
+    int number1, number2, sum;
+    int number3 = 0;
 
 
     while(choice != 4) {
@@ -16,9 +18,25 @@ int main() {
         switch (choice) {
             case 1:
                 cout<<"Jus pasirinkote pirma opcija"<<endl;
+                cout<<"Iveskite pirma skaiciu"<<endl;
+                cin>>number1;
+                cout<<"Iveskite antra skaiciu"<<endl;
+                cin>>number2;
+
+                sum = number1 + number2;
+                cout<<"Dvieju skaiciu suma yra lygi "<<sum<<endl;
                 break;
             case 2:
                 cout<<"Jus pasirinkote antra opcija"<<endl;
+                while (number3 <= 20) {
+                    if (number3 % 2 == 0) {
+                        cout<<"Skaicius "<<number3<<" yra lyginis"<<endl;
+                    } else {
+                        cout<<"Skaicius "<<number3<<" yra nelyginis"<<endl;
+                    }
+                    //number3 = number3 +1;
+                    number3++;
+                }
                 break;
             case 3:
                 cout<<"Jus pasirinkote trecia opcija"<<endl;
