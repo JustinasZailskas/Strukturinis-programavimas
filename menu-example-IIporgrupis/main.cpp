@@ -40,6 +40,9 @@ int main() {
                 break;
             case 3:
                 cout<<"Jus pasirinkote trecia opcija"<<endl;
+                for(int i = 0; i <= 20; i++) {
+                    cout<<"Skaicius yra "<<i<<endl;
+                }
                 break;
             case 4:
                 cout<<"Jus baigete programa"<<endl;
