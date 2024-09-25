@@ -1,0 +1,3 @@
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/predefined-functions/cmake-build-debug/CMakeFiles/predefined_functions.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/predefined-functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/predefined-functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
