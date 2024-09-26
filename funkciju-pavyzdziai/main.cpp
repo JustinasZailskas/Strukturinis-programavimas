@@ -23,7 +23,9 @@ int main()
     return 0;
 }
 
+
 int getRandomNumber() {
+    srand(time(nullptr));
     int randomNum = rand() % 100 ;
     return randomNum;
 }
