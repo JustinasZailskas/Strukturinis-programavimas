@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2024_10_09_Min_ir_max_elementai",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2024_10_09_Min_ir_max_elementai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2024_10_09_Min_ir_max_elementai-Debug-018c3f79ba2ca26a67fe.json",
+					"name" : "2024_10_09_Min_ir_max_elementai",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/2024-10-09 Min ir max elementai/cmake-build-debug",
+		"source" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/2024-10-09 Min ir max elementai"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
