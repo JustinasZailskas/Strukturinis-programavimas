@@ -1,0 +1,3 @@
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/2024-10-09 masyvo sukurimo pavyzdziai/cmake-build-debug/CMakeFiles/2024_10_09_masyvo_sukurimo_pavyzdziai.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/2024-10-09 masyvo sukurimo pavyzdziai/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/2024-10-09 masyvo sukurimo pavyzdziai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
