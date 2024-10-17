@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Masyvo_elementu_rikiavimas",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Masyvo_elementu_rikiavimas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Masyvo_elementu_rikiavimas-Debug-4371eaccb55f5fc5df00.json",
+					"name" : "Masyvo_elementu_rikiavimas",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/Masyvo elementu rikiavimas/cmake-build-debug",
+		"source" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/Masyvo elementu rikiavimas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

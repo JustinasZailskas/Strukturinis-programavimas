@@ -1,0 +1,3 @@
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Masyvo elementu rikiavimas/cmake-build-debug/CMakeFiles/Masyvo_elementu_rikiavimas.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Masyvo elementu rikiavimas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Masyvo elementu rikiavimas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

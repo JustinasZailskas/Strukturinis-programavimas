@@ -1,0 +1,3 @@
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Suskaiciuoti 0 kieki masyve/cmake-build-debug/CMakeFiles/Suskaiciuoti_0_kieki_masyve.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Suskaiciuoti 0 kieki masyve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Suskaiciuoti 0 kieki masyve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
