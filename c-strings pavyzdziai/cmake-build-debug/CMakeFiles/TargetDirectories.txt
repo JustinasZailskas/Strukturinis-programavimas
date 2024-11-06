@@ -1,0 +1,3 @@
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/c-strings pavyzdziai/cmake-build-debug/CMakeFiles/c_strings_pavyzdziai.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/c-strings pavyzdziai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j.zailskas/Documents/Strukturinis-programavimas/c-strings pavyzdziai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
