@@ -1,0 +1,3 @@
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/struct trecias pavyzdys/cmake-build-debug/CMakeFiles/struct_trecias_pavyzdys.dir
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/struct trecias pavyzdys/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/struct trecias pavyzdys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
