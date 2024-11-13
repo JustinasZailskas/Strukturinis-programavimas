@@ -1,0 +1,3 @@
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/sales_data_analysis/cmake-build-debug/CMakeFiles/sales_data_analysis.dir
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/sales_data_analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/j.zailskas/Desktop/Strukturinis-programavimas/sales_data_analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
