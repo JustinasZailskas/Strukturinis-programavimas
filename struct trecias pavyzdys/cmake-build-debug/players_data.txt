@@ -1,4 +1,4 @@
-Sylvain Francisco Guard 1.85 8 102
-Edgaras Ulanovas Forward 1.99 8 54
-Laurynas Birutis Center 2.13 8 49
-Dovydas Giedraitis Guard 1.93 8 85
+Sylvain Francisco Guard 1.85 8 102 42 9 22
+Edgaras Ulanovas Forward 1.99 8 54 14 6 9
+Laurynas Birutis Center 2.13 8 49 1 0 5
+Dovydas Giedraitis Guard 1.93 8 85 17 6 7
