@@ -1,0 +1,3 @@
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Faktorialo skaiciavimas (rekursija)/cmake-build-debug/CMakeFiles/Faktorialo_skaiciavimas__rekursija_.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Faktorialo skaiciavimas (rekursija)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Faktorialo skaiciavimas (rekursija)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
