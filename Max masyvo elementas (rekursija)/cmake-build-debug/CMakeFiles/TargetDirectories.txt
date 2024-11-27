@@ -1,0 +1,3 @@
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Max masyvo elementas (rekursija)/cmake-build-debug/CMakeFiles/Max_masyvo_elementas__rekursija_.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Max masyvo elementas (rekursija)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/justinaszailskas/Documents/Strukturinis-programavimas/Max masyvo elementas (rekursija)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

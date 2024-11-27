@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Max_masyvo_elementas__rekursija_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Max_masyvo_elementas__rekursija_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Max_masyvo_elementas__rekursija_-Debug-88a20c3987289a5fa65b.json",
+					"name" : "Max_masyvo_elementas__rekursija_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/Max masyvo elementas (rekursija)/cmake-build-debug",
+		"source" : "/Users/justinaszailskas/Documents/Strukturinis-programavimas/Max masyvo elementas (rekursija)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
